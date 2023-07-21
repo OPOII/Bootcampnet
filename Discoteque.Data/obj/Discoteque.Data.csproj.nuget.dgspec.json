@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {}
+    "c:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
+    "c:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+        "projectUniqueName": "c:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
         "projectName": "Discoteque.Data",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+        "projectPath": "c:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\obj\\",
+        "outputPath": "c:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1542,7 +1542,7 @@
           "System.Text.Json": "7.0.0"
         },
         "compile": {
-          "lib/net7.0/Microsoft.Extensions.DependencyModel.dll": {
+          "lib/net7.0/_._": {
             "related": ".xml"
           }
         },
@@ -2008,7 +2008,7 @@
           "System.CodeDom": "4.4.0"
         },
         "compile": {
-          "lib/netstandard2.0/Mono.TextTemplating.dll": {}
+          "lib/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Mono.TextTemplating.dll": {}
@@ -2482,7 +2482,7 @@
       "System.CodeDom/4.4.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.0/System.CodeDom.dll": {
+          "ref/netstandard2.0/_._": {
             "related": ".xml"
           }
         },
@@ -11830,11 +11830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
+      "projectUniqueName": "c:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
       "projectName": "Discoteque.API",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
+      "projectPath": "c:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.API\\obj\\",
+      "outputPath": "c:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
