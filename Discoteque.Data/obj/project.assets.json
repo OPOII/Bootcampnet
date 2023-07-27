@@ -553,11 +553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+      "projectUniqueName": "c:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
       "projectName": "Discoteque.Data",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+      "projectPath": "c:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\Bootcamp2\\Discoteque\\Discoteque.Data\\obj\\",
+      "outputPath": "c:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
