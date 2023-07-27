@@ -1,24 +1,14 @@
-c:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.deps.json
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.dll
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.pdb
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.csproj.AssemblyReference.cache
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.AssemblyInfoInputs.cache
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.AssemblyInfo.cs
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.dll
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\refint\Discoteque.Data.dll
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.pdb
-c:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\ref\Discoteque.Data.dll
-c:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.deps.json
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.dll
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.pdb
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.csproj.AssemblyReference.cache
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.AssemblyInfoInputs.cache
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.AssemblyInfo.cs
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.csproj.CoreCompileInputs.cache
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.dll
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\refint\Discoteque.Data.dll
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.pdb
-c:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Data\obj\Debug\net7.0\ref\Discoteque.Data.dll
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.deps.json
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.runtimeconfig.json
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.dll
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.pdb
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.csproj.AssemblyReference.cache
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.AssemblyInfoInputs.cache
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.AssemblyInfo.cs
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.csproj.CoreCompileInputs.cache
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.dll
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\refint\Discoteque.Data.dll
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.pdb
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.genruntimeconfig.cache
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\ref\Discoteque.Data.dll

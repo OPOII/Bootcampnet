@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Discoteque.Business.IServices;
-using Discoteque.Data.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Discoteque.Business.IServices;
+using Discoteque.Data.Models;
 
 namespace Discoteque.API.Controllers
 {
@@ -13,25 +13,35 @@ namespace Discoteque.API.Controllers
     [ApiController]
     public class ArtistsController : ControllerBase
     {
-        private readonly IArtistService _artistService;
+        private readonly IArtistsService _artistsService;
 
-        public ArtistsController(IArtistService artistService)
+        public ArtistsController(IArtistsService artistsService)
         {
-            _artistService = artistService;
+            _artistsService = artistsService;
         }
 
         [HttpGet]
-        public async Task<IActionResult> Get()
+        [Route("GetAllArtistsAsync")]
+        public async Task<IActionResult> GetAllArtistsAsync()
         {
-            var artist = await _artistService.GetArtistsAsync();
-            return Ok(artist);
+            var artists = await _artistsService.GetArtistsAsync();
+            return Ok(artists);
         }
 
+
         [HttpPost]
-        public async Task<IActionResult> CreateArtist(Artist artist)
+        [Route("CreateArtistAsync")]
+        public async Task<IActionResult> CreateArtistAsync(Artist artist)
         {
-            var created= await _artistService.CreateArtist(artist);
-            return Ok(created);
+            var result = await _artistsService.CreateArtist(artist);
+            return Ok(result);
+        }
+
+        [HttpPatch]
+        [Route("UpdateArtistAsync")]
+        public async Task<IActionResult> UpdateArtistAsync(Artist artist)
+        {
+            return Ok();
         }
     }
 }

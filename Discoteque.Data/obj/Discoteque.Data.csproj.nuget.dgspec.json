@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {}
+    "c:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {}
   },
   "projects": {
-    "C:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
+    "c:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+        "projectUniqueName": "c:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
         "projectName": "Discoteque.Data",
-        "projectPath": "C:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+        "projectPath": "c:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\obj\\",
+        "outputPath": "c:\\proyectos_desarrollo\\bootcamp\\Bootcamp2\\Discoteque\\Discoteque.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,16 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[7.0.9, )"

@@ -1,27 +1,15 @@
-c:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.deps.json
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.dll
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.pdb
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.AssemblyReference.cache
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.AssemblyInfoInputs.cache
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.AssemblyInfo.cs
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.dll
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\refint\Discoteque.Business.dll
-C:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.pdb
-c:\Users\ASUS\Desktop\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\ref\Discoteque.Business.dll
-c:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.deps.json
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.dll
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.pdb
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Data.dll
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Data.pdb
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.AssemblyReference.cache
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.GeneratedMSBuildEditorConfig.editorconfig
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.AssemblyInfoInputs.cache
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.AssemblyInfo.cs
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.CoreCompileInputs.cache
-c:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.CopyComplete
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.dll
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\refint\Discoteque.Business.dll
-C:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.pdb
-c:\proyectos_desarrollo\bootcamp\Bootcamp2\Discoteque\Discoteque.Business\obj\Debug\net7.0\ref\Discoteque.Business.dll
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.deps.json
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.dll
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.pdb
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Data.dll
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Data.pdb
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.AssemblyReference.cache
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.AssemblyInfoInputs.cache
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.AssemblyInfo.cs
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.CoreCompileInputs.cache
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.CopyComplete
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.dll
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\refint\Discoteque.Business.dll
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.pdb
+C:\proyectos_desarrollo\bootcamp\Copia bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\ref\Discoteque.Business.dll
